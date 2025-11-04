@@ -26,5 +26,11 @@ diabetes_project/
 ├─ diabetes_project.py
 └─ README.md
 
+## 项目可视化（预测值 vs 真实值）：
+
+线性回归模型预测糖尿病一年后进展指标的散点图：
+
+![散点图](scatter_plot.png)
+
 ## 参考
 - 数据集来源：scikit-learn `load_diabetes()`
