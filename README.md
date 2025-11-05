@@ -22,9 +22,9 @@ python diabetes_project.py
 
 ## 文件结构
 
-diabetes_project/
-├─ diabetes_project.py
-└─ README.md
+diabetes_project/  
+├─ diabetes_project.py  
+└─ README.md  
 
 ## 项目可视化（预测值 vs 真实值）：
 
